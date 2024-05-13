@@ -4,11 +4,6 @@
 Hello, I'm Andreu! Welcome to my digital space where I share a bit about myself. I am a Physics graduate and current Big Data master student based at IE Business School. I'm a passionate business analytics, as well as data engineering and data science. I'll upload here my work so that in the future I can look back at my own personal library 📚😀
 ***
 
-## Skills
-- 🚀 Programming languages: [List of Languages]
-- 💻 Technologies: [List of Technologies]
-- 🔧 Other skills: [Any other relevant skills]
-***
 
 ## Skills
 
