@@ -12,10 +12,7 @@ Physics BSc · MSc in Data Science & Business Analytics (IE Business School)
 
 ## Stack
 
-**ML & AI** · Python · Deep Learning · Scikit-Learn · TensorFlow · LLMs  
-**Data Engineering** · SQL · PySpark · Hadoop · Apache Kafka · AWS  
-**Databases** · MySQL · MongoDB  
-**Visualisation** · Tableau · Looker · Streamlit  
+Python · Deep Learning · LLMs · SQL ·AWS
 
 ---
 
